@@ -1,1 +1,1 @@
-### JNI  Starter project (Clion+CMake)
+### javafx-jni-utilities
